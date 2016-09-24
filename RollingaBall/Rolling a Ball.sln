@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4CD83083-C32F-B91B-4329-6D7F16D603E3}") = "Rolling a Ball", "Assembly-CSharp.csproj", "{BCE4AAF5-1666-B9AD-4280-D4A7AA44BAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE4AAF5-1666-B9AD-4280-D4A7AA44BAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE4AAF5-1666-B9AD-4280-D4A7AA44BAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE4AAF5-1666-B9AD-4280-D4A7AA44BAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE4AAF5-1666-B9AD-4280-D4A7AA44BAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
